@@ -1,7 +1,7 @@
 # https://gist.github.com/baijum/1047207/c670c7d1fe4a5a60d361d66869b20cc2ab1a4bf4
 #https://www.youtube.com/watch?v=oM-yAjUGO-E
 #http://www.marinamele.com/selenium-tutorial-web-scraping-with-selenium-and-python
-
+##########################################################################################
 import time
 from selenium import webdriver    #It imports webdriver module from selenium library
 from selenium.webdriver.common.keys import Keys   #keys module imported to execute keyboard keys

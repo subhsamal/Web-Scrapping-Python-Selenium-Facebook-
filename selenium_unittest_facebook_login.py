@@ -24,11 +24,11 @@ class LoginTest(unittest.TestCase):  #TestCase class is inhereted from unittest
 
         email_field = driver.find_element_by_id('email')
         email_field.clear()
-        email_field.send_keys('subh.samal007@gmail.com')
+        email_field.send_keys('your email id')
 
         password_field = driver.find_element_by_id('pass')
         password_field.clear()
-        password_field.send_keys('Samhis@facebook2017')
+        password_field.send_keys('your password')
 
         login_button = driver.find_element_by_id('loginbutton')
         login_button.click()

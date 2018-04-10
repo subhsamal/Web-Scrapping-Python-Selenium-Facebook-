@@ -16,8 +16,8 @@ class LoginTest(unittest.TestCase):  #TestCase class is inhereted from unittest
     # The testcase method always has to start with the word "test"
     def test_login(self):
         driver = self.driver
-        #facebook_username = 'subh.samal007@gmail.com'
-        #facebook_password = 'Samhis@facebook2017'
+        #facebook_username = 'your email id'
+        #facebook_password = 'your password'
 
         #email_Field_ID = 'email'
         #pass_Field_ID = 'pass'

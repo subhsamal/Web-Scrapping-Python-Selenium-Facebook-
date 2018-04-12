@@ -1,5 +1,3 @@
-# Ref https://gist.github.com/baijum/1047207/c670c7d1fe4a5a60d361d66869b20cc2ab1a4bf4
-# https://www.youtube.com/watch?v=oM-yAjUGO-E
 
 import unittest  #unittest is a python module for organizing test cases
 import time
@@ -51,3 +49,5 @@ if __name__ == "__main__":
 
 
 # Future work: Use Xpath for username and password. Then improve it to reply and like to others post ###
+# Ref https://gist.github.com/baijum/1047207/c670c7d1fe4a5a60d361d66869b20cc2ab1a4bf4
+# https://www.youtube.com/watch?v=oM-yAjUGO-E
